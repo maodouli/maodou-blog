@@ -49,8 +49,8 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'docs\.vuepress\public\avatar.jpg',
-    name: '程序员毛豆',
+    avatar: '.\public\avatar.jpg',
+    name: '毛豆',
     description: '毛豆的博客空间',
     // circle: true,
     // location: '',
