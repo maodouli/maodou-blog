@@ -7,8 +7,8 @@ config:
     full: true
     effect: lightning
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
+      name: 毛豆的博客空间
+      tagline: 毛豆
       text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
       actions:
         -
@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://maodouli.github.io/maodou-blog/
 ---
