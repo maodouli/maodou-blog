@@ -16,7 +16,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/maodou-blog',
   lang: 'zh-CN',
-  title: 'maodou-blog',
+  title: '程序员毛豆',
   description: '毛豆的博客空间',
 
   head: [
