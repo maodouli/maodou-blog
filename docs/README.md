@@ -7,9 +7,9 @@ config:
     full: true
     effect: lightning
     hero:
-      name: 毛豆的博客空间
-      tagline: 毛豆
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 毛豆
+      tagline: 毛豆的博客空间
+      text: 欢迎来到毛豆的博客空间，希望这里可以找到你想要的知识
       actions:
         -
           theme: brand
@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://maodouli.github.io/maodou-blog/
+          link: https://github.com/maodouli/maodou-blog
 ---

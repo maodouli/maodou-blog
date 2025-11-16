@@ -1,7 +1,7 @@
 ---
 title: 怎么安装jdk
 tags:
-  - markdown
+  - java
 createTime: 2025/11/16 19:13:00
 permalink: /blog/68apz2d8/
 ---
