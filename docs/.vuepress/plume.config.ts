@@ -49,7 +49,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/public/avatar.png',
+    avatar: 'https://theme-plume.vuejs.press/plume.png',
     name: '程序员毛豆',
     description: '毛豆的博客空间',
     circle: true,
