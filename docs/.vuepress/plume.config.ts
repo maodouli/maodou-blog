@@ -49,8 +49,8 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'maodou-blog',
+    avatar: '/public/avatar.png',
+    name: '程序员毛豆',
     description: '毛豆的博客空间',
     circle: true,
     location: '',
@@ -64,12 +64,12 @@ export default defineThemeConfig({
    * 公告板
    * @see https://theme-plume.vuejs.press/guide/features/bulletin/
    */
-  bulletin: {
-    layout: 'top-right',
-    contentType: 'markdown',
-    title: '公告板标题',
-    content: '公告板内容',
-  },
+  // bulletin: {
+  //   layout: 'top-right',
+  //   contentType: 'markdown',
+  //   title: '公告板标题',
+  //   content: '公告板内容',
+  // },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
   transition: {
